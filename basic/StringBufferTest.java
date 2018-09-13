@@ -1,0 +1,1 @@
+public class StringBufferTest{	public static void main(String[] args){		StringBuffer sb = new StringBuffer();		sb.append("Hello").append(" World.").append("Welcome!");				String str = sb.toString();		System.out.println(str);	}}

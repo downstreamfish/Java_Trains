@@ -1,0 +1,1 @@
+public class InstanceofTest{	public static void main(String[] args){		Man man = new Man();		System.out.println(man instanceof People);	}}class People{}class Man extends People{}

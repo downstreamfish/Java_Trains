@@ -1,0 +1,1 @@
+public class Immutable{	public static String upCase(String s){		return s.toUpperCase();		}		public static void main(String[] args){		String s = "HelloWorld";		System.out.println(s);			String ss = upCase(s);		System.out.println(ss);		System.out.println(s);	}	}

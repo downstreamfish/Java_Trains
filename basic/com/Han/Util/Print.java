@@ -1,0 +1,1 @@
+package com.Han.Util;public class Print{	public static void print(String s)	{		System.out.print(s);		}		public static void println(String s)	{		System.out.println(s);		}		/*	public static void println£¨object o£© {		System.out.println(o);	}		*/}
